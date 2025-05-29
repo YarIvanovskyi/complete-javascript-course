@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Updated SASS, inctead of Fraction was used Fracty.
